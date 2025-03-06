@@ -1,4 +1,4 @@
-#import "GCDAsyncSocket.h"
+@import CocoaAsyncSocket;
 #import "HTTPServer.h"
 #import "HTTPConnection.h"
 #import "HTTPMessage.h"
