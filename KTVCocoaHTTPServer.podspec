@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.author              = { "Single" => "libobjc@gmail.com" }
   s.social_media_url    = "https://weibo.com/3118550737"
   s.platform            = :ios, "8.0"
-  s.source              = { :git => "https://github.com/ChangbaDevs/KTVCocoaHTTPServer.git", :tag => "#{s.version}" }
+  s.source              = { :git => "https://github.com/heelin/KTVCocoaHTTPServer.git", :tag => "#{s.version}" }
   s.source_files        = "KTVCocoaHTTPServer", "KTVCocoaHTTPServer/**/*.{h,m}"
   s.public_header_files = "KTVCocoaHTTPServer/**/*.h"
   s.frameworks          = "Foundation"
